@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Smith & Johnson Law Firm</h1>
+        <h1>Khalil& Johnson Law Firm</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
