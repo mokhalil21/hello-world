@@ -46,7 +46,7 @@
             <div class="attorney">
                 <img src="attorney2.jpg" alt="Attorney 2">
                 <h3>Amy Johnson</h3>
-                <p>Amy specializes in criminal defense and has a strong track record of success.</p>
+                <p>Amy jhonson specializes in criminal defense and has a strong track record of success.</p>
             </div>
         </section>
     </main>
