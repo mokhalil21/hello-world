@@ -11,7 +11,7 @@
         <h1>Khaliddddl& Johnson Law Firm</h1>
         <nav>
             <ul>
-                <li><a href="#">New deplotment</a></li>
+                <li><a href="#">New deplotmenst</a></li>
                 <li><a href="#">Practice Areas</a></li>
                 <li><a href="#">WoRKS!</a></li>
                 <li><a href="#">Contact</a></li>
